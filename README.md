@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Neerajyadav160107/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0189-rotate-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Neerajyadav160107/Leetcode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Neerajyadav160107/Leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Neerajyadav160107/Leetcode/tree/master/0283-move-zeroes) |
@@ -31,6 +33,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Neerajyadav160107/Leetcode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Neerajyadav160107/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Neerajyadav160107/Leetcode/tree/master/1672-richest-customer-wealth) |
