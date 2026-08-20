@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Neerajyadav160107/Leetcode/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Neerajyadav160107/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Neerajyadav160107/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Neerajyadav160107/Leetcode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Neerajyadav160107/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Neerajyadav160107/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Sorting
@@ -69,4 +71,8 @@
 | [0088-merge-sorted-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Neerajyadav160107/Leetcode/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
