@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/Neerajyadav160107/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0189-rotate-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Neerajyadav160107/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
