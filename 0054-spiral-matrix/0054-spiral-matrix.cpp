@@ -3,44 +3,38 @@ public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
         int m = matrix.size();
         int n = matrix[0].size();
-
-        int top = 0;
-        int bottom = m - 1;
-        int left = 0;
-        int right = n - 1;
+        int min_row = 0;
+        int max_row = m - 1;
+        int min_col = 0;
+        int max_col = n - 1;
 
         vector<int> ans;
-        while (top <= bottom && left <= right) {
-
-            // 1. Top row: left → right
-            for (int j = left; j <= right; j++) {
-                ans.push_back(matrix[top][j]);
+        while (min_row <= max_row && min_col <= max_col) {
+            // Right
+            for (int j = min_col; j <= max_col; j++) {
+                ans.push_back(matrix[min_row][j]);
             }
-            top++;
-
-            // 2. Right column: top → bottom
-            for (int i = top; i <= bottom; i++) {
-                ans.push_back(matrix[i][right]);
+            min_row++;
+            // Down
+            for (int i = min_row; i <= max_row; i++) {
+                ans.push_back(matrix[i][max_col]);
             }
-            right--;
-
-            // 3. Bottom row: right → left
-            if (top <= bottom) {
-                for (int j = right; j >= left; j--) {
-                    ans.push_back(matrix[bottom][j]);
+            max_col--;
+            // Left
+            if (min_row <= max_row) {
+                for (int j = max_col; j >= min_col; j--) {
+                    ans.push_back(matrix[max_row][j]);
                 }
-                bottom--;
+                max_row--;
             }
-
-            // 4. Left column: bottom → top
-            if (left <= right) {
-                for (int i = bottom; i >= top; i--) {
-                    ans.push_back(matrix[i][left]);
+            // Up
+            if (min_col <= max_col) {
+                for (int i = max_row; i >= min_row; i--) {
+                    ans.push_back(matrix[i][min_col]);
                 }
-                left++;
+                min_col++;
             }
         }
-
         return ans;
     }
 };
