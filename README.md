@@ -18,6 +18,7 @@
 | [0001-two-sum](https://github.com/Neerajyadav160107/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Neerajyadav160107/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Neerajyadav160107/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Neerajyadav160107/Leetcode/tree/master/0283-move-zeroes) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Neerajyadav160107/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Neerajyadav160107/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Neerajyadav160107/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Neerajyadav160107/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Neerajyadav160107/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0867-transpose-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
