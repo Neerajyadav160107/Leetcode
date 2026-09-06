@@ -21,6 +21,7 @@
 | [0054-spiral-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Neerajyadav160107/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Neerajyadav160107/Leetcode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Neerajyadav160107/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Neerajyadav160107/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Neerajyadav160107/Leetcode/tree/master/0832-flipping-an-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Neerajyadav160107/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
