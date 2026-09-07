@@ -26,6 +26,7 @@
 | [0283-move-zeroes](https://github.com/Neerajyadav160107/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Neerajyadav160107/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/Neerajyadav160107/Leetcode/tree/master/0832-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -47,6 +48,7 @@
 | [0054-spiral-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Neerajyadav160107/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Neerajyadav160107/Leetcode/tree/master/0832-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Neerajyadav160107/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -97,8 +99,13 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Neerajyadav160107/Leetcode/tree/master/0832-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Neerajyadav160107/Leetcode/tree/master/0118-pascals-triangle) |
+## Greedy
+|  |
+| ------- |
+| [0861-score-after-flipping-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 <!---LeetCode Topics End-->
