@@ -4,7 +4,6 @@ public:
         int m = numRows;
         vector <vector <int> > v;
         for ( int i=0; i<m ; i++){
-
             v.push_back(vector<int>(i+1));
             for (int j=0 ; j<=i; j++){
                 if (j==0 || j==i){
