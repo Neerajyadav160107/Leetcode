@@ -9,6 +9,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Neerajyadav160107/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Neerajyadav160107/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Enumeration
 |  |
 | ------- |
