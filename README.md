@@ -28,6 +28,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Neerajyadav160107/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Neerajyadav160107/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Neerajyadav160107/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0832-flipping-an-image](https://github.com/Neerajyadav160107/Leetcode/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0867-transpose-matrix) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Neerajyadav160107/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
