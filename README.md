@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Neerajyadav160107/Leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Neerajyadav160107/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Neerajyadav160107/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Neerajyadav160107/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -92,6 +93,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Neerajyadav160107/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Neerajyadav160107/Leetcode/tree/master/0283-move-zeroes) |
