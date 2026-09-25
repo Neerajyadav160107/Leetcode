@@ -40,12 +40,14 @@
 | [1572-matrix-diagonal-sum](https://github.com/Neerajyadav160107/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Neerajyadav160107/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Neerajyadav160107/Leetcode/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Neerajyadav160107/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Neerajyadav160107/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Matrix
 |  |
 | ------- |
