@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Neerajyadav160107/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Neerajyadav160107/Leetcode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Neerajyadav160107/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Neerajyadav160107/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Neerajyadav160107/Leetcode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Neerajyadav160107/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Neerajyadav160107/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Neerajyadav160107/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Neerajyadav160107/Leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Neerajyadav160107/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/Neerajyadav160107/Leetcode/tree/master/0709-to-lower-case) |
