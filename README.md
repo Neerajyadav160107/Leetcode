@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Neerajyadav160107/Leetcode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Array
 |  |
 | ------- |
@@ -95,10 +96,12 @@
 | [0541-reverse-string-ii](https://github.com/Neerajyadav160107/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/Neerajyadav160107/Leetcode/tree/master/0709-to-lower-case) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Neerajyadav160107/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Neerajyadav160107/Leetcode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Sliding Window
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Neerajyadav160107/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Neerajyadav160107/Leetcode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Two Pointers
 |  |
 | ------- |
