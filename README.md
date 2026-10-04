@@ -16,6 +16,7 @@
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Neerajyadav160107/Leetcode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [1672-richest-customer-wealth](https://github.com/Neerajyadav160107/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [0242-valid-anagram](https://github.com/Neerajyadav160107/Leetcode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Neerajyadav160107/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -119,6 +122,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Neerajyadav160107/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
