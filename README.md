@@ -89,6 +89,7 @@
 | [0832-flipping-an-image](https://github.com/Neerajyadav160107/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [2810-faulty-keyboard](https://github.com/Neerajyadav160107/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
@@ -99,6 +100,7 @@
 | [0541-reverse-string-ii](https://github.com/Neerajyadav160107/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Neerajyadav160107/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Neerajyadav160107/Leetcode/tree/master/0709-to-lower-case) |
+| [2810-faulty-keyboard](https://github.com/Neerajyadav160107/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Neerajyadav160107/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Neerajyadav160107/Leetcode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Sliding Window
