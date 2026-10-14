@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Neerajyadav160107/Leetcode/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/Neerajyadav160107/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Neerajyadav160107/Leetcode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Neerajyadav160107/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Neerajyadav160107/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Neerajyadav160107/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Neerajyadav160107/Leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Neerajyadav160107/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Neerajyadav160107/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Neerajyadav160107/Leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Neerajyadav160107/Leetcode/tree/master/0541-reverse-string-ii) |
