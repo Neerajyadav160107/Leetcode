@@ -28,6 +28,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Neerajyadav160107/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Neerajyadav160107/Leetcode/tree/master/0118-pascals-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Neerajyadav160107/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Neerajyadav160107/Leetcode/tree/master/0283-move-zeroes) |
@@ -129,6 +130,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Neerajyadav160107/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Neerajyadav160107/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
