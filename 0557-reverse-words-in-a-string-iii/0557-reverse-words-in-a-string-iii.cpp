@@ -10,7 +10,6 @@ public:
                 start = i + 1;
             }
         }
-        
         return s;
     }
 };
