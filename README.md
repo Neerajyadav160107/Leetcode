@@ -46,6 +46,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Neerajyadav160107/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Neerajyadav160107/Leetcode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Neerajyadav160107/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Neerajyadav160107/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Neerajyadav160107/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Neerajyadav160107/Leetcode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Matrix
 |  |
 | ------- |
