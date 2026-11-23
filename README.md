@@ -120,6 +120,7 @@
 | [2810-faulty-keyboard](https://github.com/Neerajyadav160107/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Neerajyadav160107/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Neerajyadav160107/Leetcode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+| [4106-find-mismatched-segments-between-two-strings](https://github.com/Neerajyadav160107/Leetcode/tree/master/4106-find-mismatched-segments-between-two-strings) |
 ## Sliding Window
 |  |
 | ------- |
